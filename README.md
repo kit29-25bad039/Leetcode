@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kit29-25bad039/Leetcode/tree/master/0136-single-number) |
+| [0486-predict-the-winner](https://github.com/kit29-25bad039/Leetcode/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kit29-25bad039/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kit29-25bad039/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kit29-25bad039/Leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/kit29-25bad039/Leetcode/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
 | ------- |
@@ -45,4 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kit29-25bad039/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kit29-25bad039/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kit29-25bad039/Leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/kit29-25bad039/Leetcode/tree/master/0486-predict-the-winner) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kit29-25bad039/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kit29-25bad039/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
