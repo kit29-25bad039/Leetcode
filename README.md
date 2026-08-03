@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/kit29-25bad039/Leetcode/tree/master/0065-valid-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kit29-25bad039/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
