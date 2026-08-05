@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kit29-25bad039/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kit29-25bad039/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kit29-25bad039/Leetcode/tree/master/1406-stone-game-iii) |
+| [2843-count-symmetric-integers](https://github.com/kit29-25bad039/Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/kit29-25bad039/Leetcode/tree/master/0202-happy-number) |
+## Enumeration
+|  |
+| ------- |
+| [2843-count-symmetric-integers](https://github.com/kit29-25bad039/Leetcode/tree/master/2843-count-symmetric-integers) |
 <!---LeetCode Topics End-->
