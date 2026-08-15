@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kit29-25bad039/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kit29-25bad039/Leetcode/tree/master/1406-stone-game-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kit29-25bad039/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kit29-25bad039/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/kit29-25bad039/Leetcode/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kit29-25bad039/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kit29-25bad039/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kit29-25bad039/Leetcode/tree/master/0342-power-of-four) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kit29-25bad039/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
