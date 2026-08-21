@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kit29-25bad039/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/kit29-25bad039/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/kit29-25bad039/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kit29-25bad039/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kit29-25bad039/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kit29-25bad039/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/kit29-25bad039/Leetcode/tree/master/0263-ugly-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kit29-25bad039/Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/kit29-25bad039/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kit29-25bad039/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kit29-25bad039/Leetcode/tree/master/1406-stone-game-iii) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kit29-25bad039/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kit29-25bad039/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kit29-25bad039/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
