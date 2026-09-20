@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/kit29-25bad039/Leetcode/tree/master/0065-valid-number) |
 | [0205-isomorphic-strings](https://github.com/kit29-25bad039/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kit29-25bad039/Leetcode/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kit29-25bad039/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kit29-25bad039/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kit29-25bad039/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kit29-25bad039/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kit29-25bad039/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/kit29-25bad039/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/kit29-25bad039/Leetcode/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kit29-25bad039/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kit29-25bad039/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Floyd's Cycle Finding Algorithm
 |  |
