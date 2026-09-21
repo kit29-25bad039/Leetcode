@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kit29-25bad039/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/kit29-25bad039/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/kit29-25bad039/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/kit29-25bad039/Leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/kit29-25bad039/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kit29-25bad039/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/kit29-25bad039/Leetcode/tree/master/1406-stone-game-iii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kit29-25bad039/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/kit29-25bad039/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/kit29-25bad039/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/kit29-25bad039/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kit29-25bad039/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kit29-25bad039/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Floyd's Cycle Finding Algorithm
