@@ -307,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/kit29-25bad039/Leetcode/tree/master/1096-brace-expansion-ii) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/kit29-25bad039/Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
