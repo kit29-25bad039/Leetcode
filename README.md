@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kit29-25bad039/Leetcode/tree/master/1406-stone-game-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kit29-25bad039/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kit29-25bad039/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kit29-25bad039/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kit29-25bad039/Leetcode/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kit29-25bad039/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2942-find-words-containing-character](https://github.com/kit29-25bad039/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/kit29-25bad039/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1406-stone-game-iii](https://github.com/kit29-25bad039/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kit29-25bad039/Leetcode/tree/master/1510-stone-game-iv) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kit29-25bad039/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kit29-25bad039/Leetcode/tree/master/2029-stone-game-ix) |
 | [2843-count-symmetric-integers](https://github.com/kit29-25bad039/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kit29-25bad039/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kit29-25bad039/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kit29-25bad039/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
@@ -321,8 +324,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kit29-25bad039/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kit29-25bad039/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kit29-25bad039/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kit29-25bad039/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
