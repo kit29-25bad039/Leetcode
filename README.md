@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kit29-25bad039/Leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/kit29-25bad039/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kit29-25bad039/Leetcode/tree/master/0877-stone-game) |
+| [1037-valid-boomerang](https://github.com/kit29-25bad039/Leetcode/tree/master/1037-valid-boomerang) |
 | [1406-stone-game-iii](https://github.com/kit29-25bad039/Leetcode/tree/master/1406-stone-game-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kit29-25bad039/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kit29-25bad039/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kit29-25bad039/Leetcode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/kit29-25bad039/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kit29-25bad039/Leetcode/tree/master/0877-stone-game) |
+| [1037-valid-boomerang](https://github.com/kit29-25bad039/Leetcode/tree/master/1037-valid-boomerang) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kit29-25bad039/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1406-stone-game-iii](https://github.com/kit29-25bad039/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kit29-25bad039/Leetcode/tree/master/1510-stone-game-iv) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kit29-25bad039/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1037-valid-boomerang](https://github.com/kit29-25bad039/Leetcode/tree/master/1037-valid-boomerang) |
 ## Simulation
 |  |
 | ------- |
