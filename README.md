@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kit29-25bad039/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kit29-25bad039/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kit29-25bad039/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/kit29-25bad039/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/kit29-25bad039/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kit29-25bad039/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kit29-25bad039/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/kit29-25bad039/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kit29-25bad039/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kit29-25bad039/Leetcode/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/kit29-25bad039/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2843-count-symmetric-integers](https://github.com/kit29-25bad039/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kit29-25bad039/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kit29-25bad039/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
