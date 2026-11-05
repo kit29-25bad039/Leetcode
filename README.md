@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kit29-25bad039/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kit29-25bad039/Leetcode/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/kit29-25bad039/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2769-find-the-maximum-achievable-number](https://github.com/kit29-25bad039/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/kit29-25bad039/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kit29-25bad039/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kit29-25bad039/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
