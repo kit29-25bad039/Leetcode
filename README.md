@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kit29-25bad039/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kit29-25bad039/Leetcode/tree/master/0877-stone-game) |
 | [1037-valid-boomerang](https://github.com/kit29-25bad039/Leetcode/tree/master/1037-valid-boomerang) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kit29-25bad039/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/kit29-25bad039/Leetcode/tree/master/1406-stone-game-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kit29-25bad039/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/kit29-25bad039/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kit29-25bad039/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kit29-25bad039/Leetcode/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/kit29-25bad039/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kit29-25bad039/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kit29-25bad039/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kit29-25bad039/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kit29-25bad039/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kit29-25bad039/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/kit29-25bad039/Leetcode/tree/master/0069-sqrtx) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kit29-25bad039/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kit29-25bad039/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kit29-25bad039/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kit29-25bad039/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kit29-25bad039/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kit29-25bad039/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kit29-25bad039/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kit29-25bad039/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Floyd's Cycle Finding Algorithm
 |  |
